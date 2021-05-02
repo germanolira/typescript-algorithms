@@ -2,4 +2,4 @@
  Algoritmos e estrutura de dados em Typescript
  
  ## IDE
- IDE para testar os algoritmos: typescriptlang.org/play
+ IDE para testar os algoritmos: https://typescriptlang.org/play
