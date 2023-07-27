@@ -3,3 +3,6 @@
  
  ## IDE
  IDE para testar os algoritmos: https://www.typescriptlang.org/play
+
+
+## // To do
